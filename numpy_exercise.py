@@ -92,7 +92,7 @@ print(
 )
 changedArray = salesArray.copy()
 changedArray[2, 3] = 20.14
-print("The updated array is:\n", changedArray)
+print("The fixed array is:\n", changedArray)
 print()
 print("The original array is\n", salesArray)
 print()
